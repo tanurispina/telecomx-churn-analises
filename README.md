@@ -9,7 +9,7 @@ Através da limpeza de dados, engenharia de recursos (feature engineering) e An�
 * **Python 3**
 * **Pandas:** Para manipulação, limpeza e transformação dos dados estruturados.
 * **Matplotlib & Seaborn:** Para visualização de dados e criação de gráficos estatísticos.
-* **Jupyter Notebook / VS Code:** Ambiente de desenvolvimento.
+* **Google Colab:** Ambiente de desenvolvimento em nuvem utilizado para a execução e documentação da análise.
 
 ## 📁 Estrutura do Projeto
 O notebook principal (`TelecomX_BR.ipynb`) está dividido nas seguintes etapas lógicas:
