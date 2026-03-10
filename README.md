@@ -33,9 +33,10 @@ O notebook principal (`TelecomX_BR.ipynb`) está dividido nas seguintes etapas l
    git clone [https://github.com/seu-usuario/nome-do-repositorio.git](https://github.com/seu-usuario/nome-do-repositorio.git)
 
 2. **Acesse a pasta do projeto:**
-
    ```bash
-  cd nome-do-repositorio
+   cd nome-do-seu-repositorio
+
+*(Lembre-se de trocar `nome-do-seu-repositorio` pelo nome real da pasta do seu projeto!)*
 
 3. **Instale as dependências necessárias:**
    ```bash
